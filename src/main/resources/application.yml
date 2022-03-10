@@ -1,0 +1,11 @@
+server:
+  port: 443
+  ssl:
+    key-store-type: PKCS12
+    key-store: ssl/baeldung.p12
+    key-store-password: not_password
+    key-alias: baeldung
+    enabled: true
+logging:
+  file:
+    name: logs/log.txt

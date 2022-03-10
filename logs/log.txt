@@ -1,0 +1,132 @@
+2022-03-10 16:40:20.116  INFO 13804 --- [main] ru.jawaprog.sniffer.Main                 : Starting Main using Java 11.0.12 on Deep-Thought with PID 13804 (C:\Users\tolia\IdeaProjects\TSLSniffer\target\classes started by tolia in C:\Users\tolia\IdeaProjects\TSLSniffer)
+2022-03-10 16:40:20.116  INFO 13804 --- [main] ru.jawaprog.sniffer.Main                 : No active profile set, falling back to 1 default profile: "default"
+2022-03-10 16:40:20.591  INFO 13804 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 443 (https)
+2022-03-10 16:40:20.596  INFO 13804 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-10 16:40:20.596  INFO 13804 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-10 16:40:20.635  INFO 13804 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-10 16:40:20.635  INFO 13804 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 488 ms
+2022-03-10 16:40:21.098  INFO 13804 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 443 (https) with context path ''
+2022-03-10 16:40:21.098  INFO 13804 --- [main] ru.jawaprog.sniffer.Main                 : Started Main in 1.269 seconds (JVM running for 1.834)
+2022-03-10 16:40:49.706  INFO 13804 --- [https-jsse-nio-443-exec-5] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-10 16:40:49.707  INFO 13804 --- [https-jsse-nio-443-exec-5] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-10 16:40:49.708  INFO 13804 --- [https-jsse-nio-443-exec-5] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-10 16:40:49.725  INFO 13804 --- [https-jsse-nio-443-exec-5] ru.jawaprog.sniffer.rest.SnifferRest     : Sender: 0:0:0:0:0:0:0:1
+request: lol
+2022-03-10 16:41:08.989  INFO 13804 --- [https-jsse-nio-443-exec-8] ru.jawaprog.sniffer.rest.SnifferRest     : Sender: 0:0:0:0:0:0:0:1
+login: jawa
+password: qwerty
+2022-03-10 16:45:04.319  INFO 9620 --- [main] ru.jawaprog.sniffer.Main                 : Starting Main using Java 11.0.12 on Deep-Thought with PID 9620 (C:\Users\tolia\IdeaProjects\TSLSniffer\target\classes started by tolia in C:\Users\tolia\IdeaProjects\TSLSniffer)
+2022-03-10 16:45:04.319  INFO 9620 --- [main] ru.jawaprog.sniffer.Main                 : No active profile set, falling back to 1 default profile: "default"
+2022-03-10 16:45:04.787  INFO 9620 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 443 (https)
+2022-03-10 16:45:04.787  INFO 9620 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-10 16:45:04.787  INFO 9620 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-10 16:45:04.834  INFO 9620 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-10 16:45:04.834  INFO 9620 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 484 ms
+2022-03-10 16:45:05.272  INFO 9620 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 443 (https) with context path ''
+2022-03-10 16:45:05.287  INFO 9620 --- [main] ru.jawaprog.sniffer.Main                 : Started Main in 1.225 seconds (JVM running for 1.784)
+2022-03-10 16:45:09.363  INFO 9620 --- [https-jsse-nio-443-exec-6] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-10 16:45:09.364  INFO 9620 --- [https-jsse-nio-443-exec-6] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-10 16:45:09.365  INFO 9620 --- [https-jsse-nio-443-exec-6] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-10 16:45:16.147  WARN 9620 --- [https-jsse-nio-443-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'twoweeks' for method parameter type String is not present]
+2022-03-10 16:45:45.214  INFO 1944 --- [main] ru.jawaprog.sniffer.Main                 : Starting Main using Java 11.0.12 on Deep-Thought with PID 1944 (C:\Users\tolia\IdeaProjects\TSLSniffer\target\classes started by tolia in C:\Users\tolia\IdeaProjects\TSLSniffer)
+2022-03-10 16:45:45.230  INFO 1944 --- [main] ru.jawaprog.sniffer.Main                 : No active profile set, falling back to 1 default profile: "default"
+2022-03-10 16:45:45.683  INFO 1944 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 443 (https)
+2022-03-10 16:45:45.683  INFO 1944 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-10 16:45:45.683  INFO 1944 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-10 16:45:45.730  INFO 1944 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-10 16:45:45.730  INFO 1944 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 485 ms
+2022-03-10 16:45:46.167  INFO 1944 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 443 (https) with context path ''
+2022-03-10 16:45:46.183  INFO 1944 --- [main] ru.jawaprog.sniffer.Main                 : Started Main in 1.217 seconds (JVM running for 1.758)
+2022-03-10 16:45:59.355  INFO 12828 --- [main] ru.jawaprog.sniffer.Main                 : Starting Main using Java 11.0.12 on Deep-Thought with PID 12828 (C:\Users\tolia\IdeaProjects\TSLSniffer\target\classes started by tolia in C:\Users\tolia\IdeaProjects\TSLSniffer)
+2022-03-10 16:45:59.355  INFO 12828 --- [main] ru.jawaprog.sniffer.Main                 : No active profile set, falling back to 1 default profile: "default"
+2022-03-10 16:45:59.808  INFO 12828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 443 (https)
+2022-03-10 16:45:59.808  INFO 12828 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-10 16:45:59.808  INFO 12828 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-10 16:45:59.855  INFO 12828 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-10 16:45:59.855  INFO 12828 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 469 ms
+2022-03-10 16:46:00.323  INFO 12828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 443 (https) with context path ''
+2022-03-10 16:46:00.323  INFO 12828 --- [main] ru.jawaprog.sniffer.Main                 : Started Main in 1.224 seconds (JVM running for 1.774)
+2022-03-10 16:46:03.798  INFO 12828 --- [https-jsse-nio-443-exec-6] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-10 16:46:03.799  INFO 12828 --- [https-jsse-nio-443-exec-6] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-10 16:46:03.800  INFO 12828 --- [https-jsse-nio-443-exec-6] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-10 16:46:09.520  INFO 12828 --- [https-jsse-nio-443-exec-7] ru.jawaprog.sniffer.rest.SnifferRest     : Sender: 0:0:0:0:0:0:0:1
+login: jawa
+password: prog
+twoweeks: null
+2022-03-10 16:46:09.528 ERROR 12828 --- [https-jsse-nio-443-exec-7] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at java.base/java.net.URLEncoder.encode(URLEncoder.java:224) ~[na:na]
+	at java.base/java.net.URLEncoder.encode(URLEncoder.java:196) ~[na:na]
+	at ru.jawaprog.sniffer.rest.SnifferRest.loginRequest(SnifferRest.java:90) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.16.jar:5.3.16]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.16.jar:5.3.16]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681) ~[tomcat-embed-core-9.0.58.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.16.jar:5.3.16]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.58.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.16.jar:5.3.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.16.jar:5.3.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.16.jar:5.3.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.16.jar:5.3.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.16.jar:5.3.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.16.jar:5.3.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at java.base/java.lang.Thread.run(Thread.java:829) ~[na:na]
+
+2022-03-10 16:47:15.452  INFO 8912 --- [main] ru.jawaprog.sniffer.Main                 : Starting Main using Java 11.0.12 on Deep-Thought with PID 8912 (C:\Users\tolia\IdeaProjects\TSLSniffer\target\classes started by tolia in C:\Users\tolia\IdeaProjects\TSLSniffer)
+2022-03-10 16:47:15.452  INFO 8912 --- [main] ru.jawaprog.sniffer.Main                 : No active profile set, falling back to 1 default profile: "default"
+2022-03-10 16:47:15.921  INFO 8912 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 443 (https)
+2022-03-10 16:47:15.921  INFO 8912 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-10 16:47:15.921  INFO 8912 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-10 16:47:15.968  INFO 8912 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-10 16:47:15.968  INFO 8912 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 485 ms
+2022-03-10 16:47:16.421  INFO 8912 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 443 (https) with context path ''
+2022-03-10 16:47:16.436  INFO 8912 --- [main] ru.jawaprog.sniffer.Main                 : Started Main in 1.229 seconds (JVM running for 1.794)
+2022-03-10 16:47:21.617  INFO 8912 --- [https-jsse-nio-443-exec-6] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-10 16:47:21.618  INFO 8912 --- [https-jsse-nio-443-exec-6] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-10 16:47:21.619  INFO 8912 --- [https-jsse-nio-443-exec-6] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-10 16:47:26.775  INFO 8912 --- [https-jsse-nio-443-exec-4] ru.jawaprog.sniffer.rest.SnifferRest     : Sender: 0:0:0:0:0:0:0:1
+login: jawa
+password: prog
+twoweeks: null
+2022-03-10 16:47:45.012  INFO 8912 --- [https-jsse-nio-443-exec-9] ru.jawaprog.sniffer.rest.SnifferRest     : Sender: 0:0:0:0:0:0:0:1
+login: jawa
+password: prog
+twoweeks: no
